@@ -55,19 +55,9 @@
 **/.idea/**/libraries
 
 # Project 2
-proj2*/**/data/
-proj2*/**/ngordnetData2022/
-proj2*/**/*.zip
-proj2*/**/*.txt
-synsets.txt
-hyponyms.txt
-all_words.csv
-total_counts.csv
-top_14377_words.csv
-top_49887_words.csv
-words_that_start_with_q.csv
-hyponyms1000-subgraph.txt
-synsets1000-subgraph.txt
+proj4*/data/
+proj4*/*.zip
+proj4*/*.txt
 
 # Library
 *.jar
