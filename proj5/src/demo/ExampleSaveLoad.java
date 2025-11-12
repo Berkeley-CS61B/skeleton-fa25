@@ -5,10 +5,6 @@ import edu.princeton.cs.algs4.Out;
 
 import java.io.File;
 
-/**
- * This demo shows how to save and load game state.
- * In this demo, we create and use a "name.txt" file to save and load an inputted name.
- */
 public class ExampleSaveLoad {
     public static void main(String[] args) {
         String filename = "name.txt";
